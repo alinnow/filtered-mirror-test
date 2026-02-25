@@ -2,6 +2,9 @@
 
 Filter a repository history for mirroring to an untrusted forge.
 
+- [Codeberg](https://codeberg.org/alinnow/filtered-mirror-test)
+- [GitHub mirror](https://github.com/alinnow/filtered-mirror-test)
+
 ## Use case
 
 Want to make your projects discoverable on centralised forges, but don't want to support the centralisation? Use this action to mirror only a readme and license file, so that interested users can find your repository on a centralised site, but have to leave it to use your code.
